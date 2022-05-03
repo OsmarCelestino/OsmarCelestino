@@ -1,6 +1,6 @@
 ## Olá eu me chamo Osmar sou entusiasta da área de tecnologia, e esse é o meu repositório pessoal.
 
-- 🔭 Hoje eu trbalho como desenvolvimento web full-stack
+- 🔭 Hoje eu trabalho como desenvolvimento web full-stack
 - 🌱 Há algum tempo venho estudando Python e criando alguns mini projetos.
 - 📫 Contate-me no e-mail: osmarl.celestino@gmail.com
 - 😄 Pronouns: ele/dele
