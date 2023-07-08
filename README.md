@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/osmar-celestino/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmarCelestino&layout=compact&langs_count=7&theme=dracula"/>
+  <img margin-left="-80px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmarCelestino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
